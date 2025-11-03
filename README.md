@@ -40,7 +40,7 @@ By completing this task, you will learn to:
 - Understand real-world collaboration using GitHub  
 
 ---
-# 🏷️ Details
+## 🏷️ Details
 
 🧑‍💻 **Author:** [Amal N K](https://github.com/Amal-nellanhi)
 
